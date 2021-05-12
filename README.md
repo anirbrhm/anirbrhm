@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Football, food and chess**
 
-- 📫 How to reach me : **Drop me an email at anirbrhm@iitk.ac.in**
+- 📫 How to reach me : **Drop me an email at anirbrhm@iitk.ac.in or find me on FaceBook**
 
 - ⚡ Fun fact **I love Biriyani 🧡**
 
