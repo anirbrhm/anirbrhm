@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Anirudha Brahma</h1>
+<h1 align="center">Hola 👋, I'm Anirudha Brahma</h1>
 <h3 align="center">A young and dumb Physics UnderGrad</h3>
 
-- 🌱 I’m currently learning **Generative Adversarial Networks**
+- 👀 I’m mostly interested in Computer Vision Algorithms, but I find myself mostly watching NLP videos instead. 
 
-- 👯 I’m looking to collaborate on **Computer Vision and NLP Competitions**
+- 🌱 I’m currently studying **Generative Adversarial Networks** and the awesome application for Image Translation. 
+
+- 👯 I’m looking to collaborate on **Computer Vision and NLP Competitions and Projects**
 
 - 👨‍💻 All of my projects are available at [github.com/anirbrhm](github.com/anirbrhm)
+
+- 😛 Apart from all this nonsense, football is my passion. Hala Madrid !!!
 
 - 💬 Ask me about **Football, food and chess**
 
