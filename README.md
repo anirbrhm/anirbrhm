@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Anirudha Brahma</h1>
-<h3 align="center">A young and dumb Physics UnderGrad</h3>
+<h3 align="center">An anonymous dumbo octopus 🐙</h3>
 
 - 👀 I’m mostly interested in Computer Vision Algorithms, but I find myself mostly watching NLP videos instead
 
