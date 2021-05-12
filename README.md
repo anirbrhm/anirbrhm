@@ -1,21 +1,19 @@
 <h1 align="center">Hola 👋, I'm Anirudha Brahma</h1>
 <h3 align="center">A young and dumb Physics UnderGrad</h3>
 
-- 👀 I’m mostly interested in Computer Vision Algorithms, but I find myself mostly watching NLP videos instead. 
+- 👀 I’m mostly interested in Computer Vision Algorithms, but I find myself mostly watching NLP videos instead
 
-- 🌱 I’m currently studying **Generative Adversarial Networks** and the awesome application for Image Translation. 
+- 🌱 I’m currently studying **Generative Adversarial Networks** and the awesome application for Image Translation
 
 - 👯 I’m looking to collaborate on **Computer Vision and NLP Competitions and Projects**
 
-- 👨‍💻 All of my projects are available at [github.com/anirbrhm](github.com/anirbrhm)
+- 👨‍💻 All of my projects are available at [github.com/anirbrhm](github.com/anirbrhm). Just scroll below 🎃
 
 - 😛 Apart from all this nonsense, football is my passion. Hala Madrid !!!
 
 - 💬 Ask me about **Football, food and chess**
 
 - 📫 How to reach me : **Drop me an email at anirbrhm@iitk.ac.in**
-
-- 📄 Know about my experiences **Resume link :** [https://bit.ly/3f4DhPZ](https://bit.ly/3f4DhPZ)
 
 - ⚡ Fun fact **I love Biriyani 🧡**
 
